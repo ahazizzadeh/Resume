@@ -1,0 +1,36 @@
+.row1 {
+  background-color: rgba(78, 82, 80, 0.699);
+  max-height: 35vh;
+  padding: 1% 4%;
+  display: grid;
+  grid-template-columns: 15% 85%;
+  justify-items: center;
+  align-items: center;
+}
+
+.img {
+  grid-column: 1/2;  
+}
+
+.img img{
+    max-width: 100%;
+    height: auto;
+}
+
+.skillImages {
+  grid-column: 2/3;
+  margin: 1% 5%;
+  display: flex;
+  justify-items: center;
+  align-items: center;
+}
+
+.skillImages div {
+  float: left;
+  width: 20%;  
+}
+
+.skillImages img {
+    max-width: 70%;
+    height:auto;
+}

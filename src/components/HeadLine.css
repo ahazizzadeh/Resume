@@ -1,0 +1,18 @@
+.headline{
+    display: flex;
+    flex-direction: row;;
+    position: fixed;
+    z-index: 10;
+    background-color: rgba(255, 255, 255, 0);
+    width:100%;
+}
+
+.headline > div{
+    padding-top: 30px;
+    padding-right: 40px;
+}
+
+#image{
+    margin-right: auto;
+    padding: 20px;
+}

@@ -1,0 +1,90 @@
+.version1-section1 {
+    background-color: rgba(34, 229, 255, 0.815);
+  }
+  
+  .version1-section2 {
+    display: grid;
+    background-color: white;
+    grid-template-rows: 1fr 8fr 1fr;
+    grid-template-columns: 90%;
+  }
+  
+  .version1-section3 {
+    display: grid;
+    background-color: rgb(15, 168, 189);
+    grid-template-rows: 1fr 8fr 1fr;
+    grid-template-columns: 90%;
+  }
+  
+  .version2-section1 {
+    background-color: rgb(149, 72, 212);
+  }
+  
+  .version2-section2 {
+    display: grid;
+    background-color: white;
+    grid-template-rows: 1fr 8fr 1fr;
+    grid-template-columns: 90%;
+  }
+  
+  .version2-section3 {
+    display: grid;
+    background-color: rgb(119, 1, 129);
+    grid-template-rows: 1fr 8fr 1fr;
+    grid-template-columns: 90%;
+  }
+  
+  .version3-section1 {
+    background-color: rgb(226, 43, 89);
+  }
+  
+  .version3-section2 {
+    display: grid;
+    background-color: white;
+    grid-template-rows: 1fr 8fr 1fr;
+    grid-template-columns: 90%;
+  }
+  
+  .version3-section3 {
+    display: grid;
+    background-color: rgba(151, 14, 21, 0.918);
+    grid-template-rows: 1fr 8fr 1fr;
+    grid-template-columns: 90%;
+  }
+  
+  .version4-section1 {
+    background-color: rgb(252, 158, 18);
+  }
+  
+  .version4-section2 {
+    display: grid;
+    background-color: white;
+    grid-template-rows: 1fr 8fr 1fr;
+    grid-template-columns: 90%;
+  }
+  
+  .version4-section3 {
+    display: grid;
+    background-color: rgb(214, 133, 11);
+    grid-template-rows: 1fr 8fr 1fr;
+    grid-template-columns: 90%;
+  }
+  
+  .version5-section1 {
+    background-color: rgba(15, 202, 15, 0.747);
+  }
+  
+  .version5-section2 {
+    display: grid;
+    background-color: white;
+    grid-template-rows: 1fr 8fr 1fr;
+    grid-template-columns: 90%;
+  }
+  
+  .version5-section3 {
+    display: grid;
+    background-color: green;
+    grid-template-rows: 1fr 8fr 1fr;
+    grid-template-columns: 90%;
+  }
+  

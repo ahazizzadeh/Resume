@@ -1,0 +1,111 @@
+{
+    "title": "Amir Hossein Azizzadeh Delshad",
+    "subtitle": "Product Owner | Front-End Developer",
+    "contact": {
+      "email": "amirhossein_azizzadeh@yahoo.com",
+      "number": "09124546276"
+    },
+    "sections": [
+      {
+        "title": "About",
+        "items": [
+          {
+            "title":"Personal Info",
+            "item": [
+              {
+                "info": "Birthday",
+                "amount":"1994"
+              },{
+                "info":"Marige",
+                "amount":"Single"
+              },{
+                "info":"Military Service",
+                "amount":"Done"
+              }
+            ]
+          },
+          {
+            "title":"Education",
+            "item": [
+            {
+              "info":"Bachelor",
+              "amount":"Sharif University of Thechnology (Sep 2012- Sep 2016)"
+              },{
+                "info": "Master",
+                "amount":"Sharif University of Thechnology (Sep 2016- Jan 2019)"
+              }
+            ]
+          },
+          {
+            "title":"Working Experience",
+            "item": [
+            {
+              "info": "Company",
+              "amount":"RahpaTech Company (The Owner of Panda & Dorna Services)"
+            },{
+              "info": "Position",
+              "amount":"Product Owner"  
+            },{
+              "info": "Time",
+              "amount":"Dec 2018 untill now"
+            }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Skills",
+        "items": [
+          {
+            "type": "PO",
+            "image": "./images/PO.png",
+            "items": [
+              {
+                "title": "Scrum",
+                "image": "./images/Scrum.png"
+              },
+              {
+                "title": "Trello",
+                "image": "./images/Trello.png"
+              },
+              {
+                "title": "Figma",
+                "image": "./images/Figma.png"
+              }
+            ]
+          },
+          {
+            "type": "Developer",
+            "image": "./images/DEV.png",
+            "items": [
+              {
+                "title": "React",
+                "image": "./images/React.png"
+              },
+              {
+                "title": "JavaScript",
+                "image": "./images/JavaScript.png"
+              },
+              {
+                "title": "HTML",
+                "image": "./images/HTML.png"
+              },
+              {
+                "title": "CSS",
+                "image": "./images/CSS.png"
+              },
+              {
+                "title": "Python",
+                "image": "./images/Python.png"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "icons": {
+      "email": "images/email.png",
+      "number": "images/number.png"
+    }
+  }
+  
