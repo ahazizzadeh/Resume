@@ -79,6 +79,14 @@
             "image": "./images/DEV.png",
             "items": [
               {
+                "title": "Flutter",
+                "image": "./images/Flutter.png"
+              },
+              {
+                "title": "Python",
+                "image": "./images/Python.png"
+              },
+              {
                 "title": "React",
                 "image": "./images/React.png"
               },
@@ -93,10 +101,6 @@
               {
                 "title": "CSS",
                 "image": "./images/CSS.png"
-              },
-              {
-                "title": "Python",
-                "image": "./images/Python.png"
               }
             ]
           }
